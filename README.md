@@ -11,36 +11,61 @@
 Atualmente, lidero a frente de **Inteligência Corporativa e Automação** no Grupo Viamão. Meu foco é transformar processos analógicos em ecossistemas digitais de alta performance, utilizando Inteligência Artificial para otimizar a tomada de decisão e a eficiência operacional.
 
 - 📍 Baseado em Viamão, RS.
-- 🛠️ Desenvolvendo ecossistemas de vendas e automação para o setor de transporte e indústria.
-- 🧠 Entusiasta de LLMs (Large Language Models) e integração de IA em fluxos de trabalho reais.
+- 🛠️ Arquiteto de ecossistemas que unem **IA Generativa, Automação de Processos e UX de Alta Performance**.
+- 🧠 Focado na construção de **Pipelines RAG**, **NLU Determinística** e **Arquiteturas Full-Stack**.
 - 🎮 Nas horas vagas, focado em alta performance no cenário de eSports e explorando a fronteira entre games e tecnologia.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Tecnológica Consolidada
 
-### 🤖 Automação & IA
+### 🤖 Inteligência Artificial & Automação
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+**Keywords:** RAG Architecture, pgvector, LLM Integration (GPT-4o/DeepSeek), NLU Determinística.
 
-### 📊 Dados & Visualização
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Earth](https://img.shields.io/badge/Google_Earth-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
-![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+### 🌐 Desenvolvimento Full-Stack & UI/UX
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Keywords:** TypeScript, Prisma/TypeORM, Zustand (State Mgmt), Framer Motion, Radix UI.
 
-### 🎨 Design & UI/UX
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### 📊 Infraestrutura & Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Keywords:** ETL Pipelines, RBAC Security, Containerization, Redis/In-memory Cache.
 
 ---
 
-## 📈 Impacto Profissional
+## 📈 Impacto Profissional & Projetos Chave
 
-- **Ecossistema de Vendas Tecmold:** Desenvolvimento de fluxos inteligentes para conversão e gestão de leads.
-- **Setor de Inteligência Corporativa:** Implementação de ferramentas de IA para análise de dados de transporte coletivo.
-- **Clube Viamão:** Estruturação de bot de atendimento e coleta de dados via WhatsApp para fidelização de clientes.
+### ✅ Em Produção (Finalizado)
+* **Chat Web Viamão:** Automatizei a consulta de horários para **+4.700 viagens diárias**. Desenvolvi uma **NLU determinística própria** (95% de precisão) que opera com latência <100ms, eliminando custos de API e tempo de espera no atendimento.
+
+---
+
+### 🚀 Em Fase Final de Implementação (Projetos em Escala)
+
+#### **Ecossistemas de IA & Inteligência de Dados**
+* **Ecossistema Tecmold:** Arquitetei um SaaS Full-Stack unificando CRM e **Busca Vetorial (pgvector)**. A solução visa eliminar o atendimento comercial fragmentado através de um co-piloto de vendas com IA.
+
+#### **Gestão Operacional & Automação Industrial**
+* **SGO (Gestão Otimizada):** Desenvolvi um sistema modular para planejamento de frotas projetado para centralizar escalas complexas em uma **Timeline Interativa** com histórico (Undo/Redo). A solução substitui fluxos manuais em Excel por uma gestão de dados unificada.
+* **RDT System:** Estruturei um fluxo digital de inspeção de tacógrafos via **PWA + n8n**. O projeto automatiza a captura de incidentes e a rastreabilidade da frota, preparando o terreno para uma manutenção totalmente data-driven.
+
+#### **Plataformas & Experiência Digital**
+* **Portal Novo Site Viamão:** Arquitetei a nova plataforma web do Grupo Viamão utilizando Next.js 16. O projeto foi **desenhado para suportar +100 mil passageiros/mês**, com foco em acessibilidade e gamificação através do "Clube Viamão".
+* **LUDUS Site:** Landing page de alta performance para EdTech no nicho de eSports. Focada em **conversão e escalabilidade**, utiliza um Design System robusto preparado para ciclos rápidos de deploy.
+
+---
+
+## 🧠 Diferenciais de Senioridade
+- **Clean Architecture:** Domínio de padrões SOLID e Injeção de Dependência em contextos enterprise.
+- **Segurança Enterprise:** Implementação de fluxos complexos de **RBAC (Role-Based Access Control)** e estratégias de autenticação JWT.
+- **Resiliência e UX:** Arquitetura de caches resilientes (Fault-Tolerant) e manipulação de estados complexos para alta interatividade.
 
 ---
 
