@@ -11,7 +11,7 @@
 Atualmente, lidero a frente de **Inteligência Corporativa e Automação** no Grupo Viamão. Meu foco é transformar processos analógicos em ecossistemas digitais de alta performance, utilizando Inteligência Artificial para otimizar a tomada de decisão e a eficiência operacional.
 
 - 📍 Baseado em Viamão, RS.
-- 🛠️ Desenvolvendo ecossistemas de vendas e automação para o setor de transporte e indústria (Tecmold).
+- 🛠️ Desenvolvendo ecossistemas de vendas e automação para o setor de transporte e indústria.
 - 🧠 Entusiasta de LLMs (Large Language Models) e integração de IA em fluxos de trabalho reais.
 - 🎮 Nas horas vagas, focado em alta performance no cenário de eSports e explorando a fronteira entre games e tecnologia.
 
