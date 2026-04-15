@@ -2,7 +2,7 @@
 
 Profissional de **Projetos e Gestão** com foco em **automação, IA aplicada a negócios, sistemas operacionais e produtos digitais**.
 
-Hoje, meu trabalho gira em torno de transformar processos manuais, fluxos legados e operações complexas em sistemas mais claros, rastreáveis e úteis para quem realmente opera o negócio.
+Meu trabalho gira em torno de transformar processos manuais, fluxos legados e operações complexas em sistemas mais claros, rastreáveis e úteis para quem realmente opera o negócio.
 
 ---
 
@@ -70,28 +70,30 @@ Exemplos:
 ### Grupo Viamão
 Construção de sistemas e iniciativas voltadas à operação real, incluindo atendimento digital, gestão operacional, planejamento e portais internos.
 
-Repositórios relacionados:
-- [`chat-web-viamao`](https://github.com/helmateus/chat-web-viamao)
-- [`sgo-mvp`](https://github.com/helmateus/sgo-mvp)
-- [`novo-site-viamao`](https://github.com/helmateus/novo-site-viamao)
-- [`planejador-de-ferias`](https://github.com/helmateus/planejador-de-ferias)
-- [`portal-programa-treinamento-sst`](https://github.com/helmateus/portal-programa-treinamento-sst)
-- [`via-mcp-pass`](https://github.com/helmateus/via-mcp-pass)
+Projetos relacionados:
+- Chat Web Viamão
+- SGO
+- Novo Site Viamão
+- Planejador de Férias
+- Portal do Programa de Treinamento SST
+- VIA MCP PASS
 
 ### LUDUS
 Ecossistema autoral voltado a educação, carreira, games e produto digital.
 
-Repositórios relacionados:
-- [`ludus-hq`](https://github.com/helmateus/ludus-hq)
-- [`ludus-site`](https://github.com/helmateus/ludus-site)
-- [`ludus-programa-de-evolucao`](https://github.com/helmateus/ludus-programa-de-evolucao)
-- [`ludus-plano-de-carreira`](https://github.com/helmateus/ludus-plano-de-carreira)
+Frentes relacionadas:
+- LUDUS HQ
+- LUDUS Site
+- Programa de Evolução
+- Plano de Carreira
 
 ### Produto e inteligência comercial
 Estruturas voltadas a CRM, atendimento, omnichannel, IA e organização de operação comercial.
 
-Repositórios relacionados:
-- [`ecossistema-de-inteligencia-tecmold`](https://github.com/helmateus/ecossistema-de-inteligencia-tecmold)
+Projeto relacionado:
+- Ecossistema de Inteligência Tecmold
+
+> Boa parte dos projetos listados acima está em ambiente privado por envolver contexto corporativo, operação interna ou materiais estratégicos.
 
 ---
 
