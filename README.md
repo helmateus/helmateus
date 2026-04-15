@@ -71,27 +71,27 @@ Exemplos:
 Construção de sistemas e iniciativas voltadas à operação real, incluindo atendimento digital, gestão operacional, planejamento e portais internos.
 
 Repositórios relacionados:
-- `chat-web-viamao`
-- `sgo-mvp`
-- `novo-site-viamao`
-- `planejador-de-ferias`
-- `portal-programa-treinamento-sst`
-- `via-mcp-pass`
+- [`chat-web-viamao`](https://github.com/helmateus/chat-web-viamao)
+- [`sgo-mvp`](https://github.com/helmateus/sgo-mvp)
+- [`novo-site-viamao`](https://github.com/helmateus/novo-site-viamao)
+- [`planejador-de-ferias`](https://github.com/helmateus/planejador-de-ferias)
+- [`portal-programa-treinamento-sst`](https://github.com/helmateus/portal-programa-treinamento-sst)
+- [`via-mcp-pass`](https://github.com/helmateus/via-mcp-pass)
 
 ### LUDUS
 Ecossistema autoral voltado a educação, carreira, games e produto digital.
 
 Repositórios relacionados:
-- `ludus-hq`
-- `ludus-site`
-- `ludus-programa-de-evolucao`
-- `ludus-plano-de-carreira`
+- [`ludus-hq`](https://github.com/helmateus/ludus-hq)
+- [`ludus-site`](https://github.com/helmateus/ludus-site)
+- [`ludus-programa-de-evolucao`](https://github.com/helmateus/ludus-programa-de-evolucao)
+- [`ludus-plano-de-carreira`](https://github.com/helmateus/ludus-plano-de-carreira)
 
-### Projetos de produto e inteligência comercial
+### Produto e inteligência comercial
 Estruturas voltadas a CRM, atendimento, omnichannel, IA e organização de operação comercial.
 
 Repositórios relacionados:
-- `ecossistema-de-inteligencia-tecmold`
+- [`ecossistema-de-inteligencia-tecmold`](https://github.com/helmateus/ecossistema-de-inteligencia-tecmold)
 
 ---
 
@@ -167,9 +167,3 @@ Hoje estou aprofundando meu trabalho em:
 - LinkedIn: [linkedin.com/in/helmateus](https://www.linkedin.com/in/helmateus/)
 - E-mail: [helmateus@outlook.com](mailto:helmateus@outlook.com)
 - Instagram: [instagram.com/helmateus](https://instagram.com/helmateus)
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helmateus&show_icons=true&theme=dark&count_private=true)
